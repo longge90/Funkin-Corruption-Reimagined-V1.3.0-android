@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-330
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Plunger Corrupted Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-317
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Plunger Corrupted Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-359
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Plunger Corrupted Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				-316
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Plunger Corrupted Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				-324
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Plunger Corrupted Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ultrasecret/plungerCorrupted",
+	"position": [
+		50,
+		10
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-20,
+		330
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

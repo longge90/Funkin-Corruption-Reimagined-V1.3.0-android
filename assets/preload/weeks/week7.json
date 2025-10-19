@@ -1,0 +1,61 @@
+{
+	"storyName": "rewind",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Savestate",
+			"spirit-angry",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"Chances",
+			"dad-shadow",
+			[
+				19,
+				19,
+				19
+			]
+		],
+		[
+			"Full-Circle",
+			"fullcircle2",
+			[
+				87,
+				1,
+				49
+			]
+		],
+		[
+			"Soliloquy",
+			"bf-end",
+			[
+				19,
+				19,
+				59
+			]
+		],
+		[
+			"Take-Two",
+			"monster",
+			[
+				175,
+				135,
+				15
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 7"
+}

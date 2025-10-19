@@ -1,0 +1,43 @@
+{
+	"storyName": "I Found You.",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Bedeviled",
+			"dad-1",
+			[
+				126,
+				73,
+				153
+			]
+		],
+		[
+			"Affliction",
+			"dad-2",
+			[
+				126,
+				73,
+				133
+			]
+		],
+		[
+			"Familiar-Finale",
+			"dad-fakeout",
+			[
+				66,
+				33,
+				113
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

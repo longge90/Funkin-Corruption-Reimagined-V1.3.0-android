@@ -1,0 +1,43 @@
+{
+	"storyName": "No More Games.",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Distress",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Xenophobia",
+			"spooky-2",
+			[
+				34,
+				31,
+				68
+			]
+		],
+		[
+			"Killer",
+			"spooky-3",
+			[
+				14,
+				31,
+				48
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

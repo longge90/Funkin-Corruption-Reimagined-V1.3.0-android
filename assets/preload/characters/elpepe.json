@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				34,
+				-12
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "elpepe down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				35,
+				47
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "elpepe up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				34,
+				18
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "elpepe idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				61,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "elpepe left"
+		},
+		{
+			"offsets": [
+				-5,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "elpepe right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/elpepe",
+	"position": [
+		-100,
+		150
+	],
+	"healthicon": "elpepe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		220,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

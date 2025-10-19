@@ -1,0 +1,93 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SENPAI UP NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SENPAI RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SENPAI LEFT NOTE"
+		},
+		{
+			"offsets": [
+				14,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SENPAI DOWN NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Angry Senpai Idle instance 1"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ignorant/bsid/senpaiDyingbsid",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "senpai-angry-bside",
+	"flip_x": false,
+	"healthbar_colors": [
+		226,
+		226,
+		224
+	],
+	"camera_position": [
+		-300,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

@@ -1,0 +1,52 @@
+{
+	"storyName": "trace('Ignorant')",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "week5",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Blissful-Ignorance",
+			"senpai-pixel",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"Disconnection",
+			"senpai-pixel",
+			[
+				215,
+				100,
+				171
+			]
+		],
+		[
+			"Short-Circuit",
+			"senpai-pixel",
+			[
+				195,
+				100,
+				151
+			]
+		],
+		[
+			"Banishment",
+			"spirit-sad",
+			[
+				60,
+				60,
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 6"
+}

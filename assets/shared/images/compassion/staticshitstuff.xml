@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="staticshitstuff.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="staticshitstuff0000" x="0" y="0" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0001" x="0" y="0" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0002" x="0" y="0" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0003" x="1280" y="0" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0004" x="1280" y="0" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0005" x="1280" y="0" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0006" x="2560" y="0" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0007" x="2560" y="0" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0008" x="2560" y="0" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0009" x="0" y="724" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0010" x="0" y="724" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0011" x="0" y="724" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0012" x="1280" y="724" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0013" x="1280" y="724" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0014" x="1280" y="724" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0015" x="2560" y="724" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0016" x="2560" y="724" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0017" x="2560" y="724" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0018" x="0" y="1448" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0019" x="0" y="1448" width="1280" height="724"/>
+	<SubTexture name="staticshitstuff0020" x="0" y="1448" width="1280" height="724"/>
+</TextureAtlas>

@@ -1,0 +1,43 @@
+{
+	"storyName": "On The Run",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Emancipation",
+			"pico",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"Gunned-Down",
+			"pico-2",
+			[
+				127,
+				19,
+				73
+			]
+		],
+		[
+			"Extrication",
+			"pico-3",
+			[
+				127,
+				19,
+				73
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 3"
+}

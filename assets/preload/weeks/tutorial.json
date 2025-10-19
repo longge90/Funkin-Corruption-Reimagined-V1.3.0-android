@@ -1,0 +1,25 @@
+{
+	"storyName": "How To Corrupt",
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Tutorial",
+			"gf-og",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Tutorial"
+}
