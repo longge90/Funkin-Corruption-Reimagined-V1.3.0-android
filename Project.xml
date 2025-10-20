@@ -182,6 +182,7 @@
     <certificate path="key.keystore" password="psychengine" alias="psychport" alias-password="psychengine" if="android" unless="debug" />
 	<!-- _________________________________ Custom _______________________________ -->
     <config:android gradle-version="8.9" />
+	  <config:android gradle-plugin="8.1.4" />
    
 	<!--Place custom nodes like icons here (higher priority to override the HaxeFlixel icon)-->
 	
