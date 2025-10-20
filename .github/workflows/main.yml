@@ -11,6 +11,19 @@ on:
   pull_request:
     branches: [ main ]
 
+  
+# This is a basic workflow to help you get started with Actions
+
+name: Build
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -59,9 +72,9 @@ jobs:
           haxelib install tjson
           haxelib install hxjsonast
           haxelib install hscript
-          haxelib git hxCodec https://github.com/SPLCoding/hxCodec-but-it-works-xd.git
-          haxelib git linc_luajit https://github.com/PsychExtendedThings/linc_luajit.git
-          haxelib git extension-androidtools https://github.com/MAJigsaw77/extension-androidtools.git
+          haxelib git hxCodec https://github.com/polybiusproxy/hxCodec.git
+          haxelib git linc_luajit https://github.com/AlafandyPorting/linc_luajit-0.7.3.git
+          haxelib git extension-androidtools https://github.com/MaysLastPlay77/extension-androidtools
           haxelib install hxcpp-debug-server
           haxelib list
       - name: Create Version Tag
@@ -80,7 +93,6 @@ jobs:
           haxelib set flixel-ui 2.4.0
           haxelib set flixel-addons 2.11.0
           haxelib set hxcpp 4.2.1
-          haxelib list
         env:
           ANDROID_NDK_HOME: ${{ steps.setup-ndk.outputs.ndk-path }}
 
